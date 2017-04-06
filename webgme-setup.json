@@ -1,4 +1,12 @@
 {
-  "components": {},
-  "dependencies": {}
+  "components": {
+    "seeds": {
+      "umlBase": {
+        "src": "src/seeds/umlBase"
+      }
+    }
+  },
+  "dependencies": {
+    "seeds": {}
+  }
 }
