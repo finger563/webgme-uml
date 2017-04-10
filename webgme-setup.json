@@ -4,9 +4,16 @@
       "umlBase": {
         "src": "src/seeds/umlBase"
       }
+    },
+    "plugins": {
+      "CodeGenerator": {
+        "src": "src/plugins/CodeGenerator",
+        "test": "test/plugins/CodeGenerator"
+      }
     }
   },
   "dependencies": {
-    "seeds": {}
+    "seeds": {},
+    "plugins": {}
   }
 }
