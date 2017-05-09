@@ -14,13 +14,12 @@
     "clean_up": "node ./node_modules/webgme/src/bin/clean_up.js"
   },
   "version": "1.0.0",
-  "peerDependencies": {
-    "webgme": "^2.0.0"
-  },
   "devDependencies": {
     "mocha": "^2.2.5",
     "rimraf": "^2.4.0",
     "chai": "^3.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "webgme": "^2.13.0"
+  }
 }
