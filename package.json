@@ -20,6 +20,6 @@
     "chai": "^3.0.0"
   },
   "dependencies": {
-    "webgme": "^2.13.0"
+    "webgme": "^2.24.0"
   }
 }

@@ -18,7 +18,7 @@ config.plugin.allowServerExecution = true;
 
 // Seeds
 config.seedProjects.enable = true;
-config.seedProjects.basePaths = ["./src/seeds/umlBase"]
+config.seedProjects.basePaths = ["./src/seeds"]
 
 // Merging config
 config.storage.autoMerge.enable = true;
