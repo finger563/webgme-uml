@@ -1,5 +1,15 @@
 # webgme-uml
 
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://opensource.org/licenses/MIT)
+[![Documentation](https://img.shields.io/badge/documentation-wiki-blue.svg?style=flat-square)](https://github.com/finger563/webgme-uml/wiki)
+[![npm](https://img.shields.io/npm/v/webgme-uml.svg)](https://www.npmjs.com/package/webgme-uml)
+[![npm](https://img.shields.io/npm/dm/webgme-uml.svg)](https://www.npmjs.com/package/webgme-uml)
+[![npm](https://img.shields.io/npm/dt/webgme-uml.svg)](https://www.npmjs.com/package/webgme-uml)
+
+![uml.collaborative-design.org](https://img.shields.io/website-up-down-green-red/https/uml.collaborative-design.org/profile/login.svg?label=uml.collaborative-design.org)
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/finger563)
+
 This repository contains a representation of UML class diagrams for
 creating and synthesizing code from UML Class Diagrams created in
 WebGME.
